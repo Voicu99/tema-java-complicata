@@ -19,5 +19,6 @@ public class AverageCalculator {
         } else {
             System.out.println("No numbers entered.");
         }
+        //System.out.println("Average: " + (count > 0 ? (double) sum / count : "No numbers entered.")); -- mai lizibil dar e ft bine cum ai facut!
     }
 }
